@@ -1,0 +1,17 @@
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\bin\Release\netcoreapp2.2\Connected Services\ServiceMDS\ConnectedService.json
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\bin\Release\netcoreapp2.2\WebServiceMDS.deps.json
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\bin\Release\netcoreapp2.2\WebServiceMDS.runtimeconfig.json
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\bin\Release\netcoreapp2.2\WebServiceMDS.runtimeconfig.dev.json
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\bin\Release\netcoreapp2.2\WebServiceMDS.dll
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\bin\Release\netcoreapp2.2\WebServiceMDS.pdb
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\obj\Release\netcoreapp2.2\WebServiceMDS.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\obj\Release\netcoreapp2.2\WebServiceMDS.RazorAssemblyInfo.cache
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\obj\Release\netcoreapp2.2\WebServiceMDS.RazorAssemblyInfo.cs
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\obj\Release\netcoreapp2.2\WebServiceMDS.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\obj\Release\netcoreapp2.2\WebServiceMDS.AssemblyInfo.cs
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\obj\Release\netcoreapp2.2\WebServiceMDS.RazorTargetAssemblyInfo.cache
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\obj\Release\netcoreapp2.2\WebServiceMDS.dll
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\obj\Release\netcoreapp2.2\WebServiceMDS.pdb
