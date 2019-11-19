@@ -15,3 +15,6 @@ C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\obj\Release\netcoreapp2.
 C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\obj\Release\netcoreapp2.2\WebServiceMDS.RazorTargetAssemblyInfo.cache
 C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\obj\Release\netcoreapp2.2\WebServiceMDS.dll
 C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\obj\Release\netcoreapp2.2\WebServiceMDS.pdb
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\bin\Release\netcoreapp2.2\MDS.Utilities.dll
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\bin\Release\netcoreapp2.2\MDS.Utilities.pdb
+C:\Users\Diego\source\repos\WebServiceMDS\WebServiceMDS\obj\Release\netcoreapp2.2\WebServiceMDS.csproj.CopyComplete

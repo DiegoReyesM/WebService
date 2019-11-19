@@ -1,0 +1,8 @@
+C:\Users\Diego\source\repos\WebServiceMDS\MDS.Utilities\bin\Debug\netcoreapp2.2\MDS.Utilities.deps.json
+C:\Users\Diego\source\repos\WebServiceMDS\MDS.Utilities\bin\Debug\netcoreapp2.2\MDS.Utilities.dll
+C:\Users\Diego\source\repos\WebServiceMDS\MDS.Utilities\bin\Debug\netcoreapp2.2\MDS.Utilities.pdb
+C:\Users\Diego\source\repos\WebServiceMDS\MDS.Utilities\obj\Debug\netcoreapp2.2\MDS.Utilities.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\WebServiceMDS\MDS.Utilities\obj\Debug\netcoreapp2.2\MDS.Utilities.AssemblyInfo.cs
+C:\Users\Diego\source\repos\WebServiceMDS\MDS.Utilities\obj\Debug\netcoreapp2.2\MDS.Utilities.dll
+C:\Users\Diego\source\repos\WebServiceMDS\MDS.Utilities\obj\Debug\netcoreapp2.2\MDS.Utilities.pdb
+C:\Users\Diego\source\repos\WebServiceMDS\MDS.Utilities\obj\Debug\netcoreapp2.2\MDS.Utilities.csprojAssemblyReference.cache

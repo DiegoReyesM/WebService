@@ -26,4 +26,8 @@
     <Folder Include="View\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MDS.Utilities\MDS.Utilities.csproj" />
+  </ItemGroup>
+
 </Project>
